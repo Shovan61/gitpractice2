@@ -2,7 +2,7 @@ var av = 12;
 const multi = 34;
 
 const github = () => {
-  return av * multi;
+  return av * multi + 2;
 };
 
 github();
